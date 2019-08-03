@@ -11,11 +11,11 @@ Data Resource:
 
 5. Credit Card Fraud Detection
 
-Data Resource:
+Data Resource: [Credit Card Fraud Detection](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset)
 
 6. Kickstarter
 
-Data Resource:
+Data Resource: [Kickstarter](https://www.kaggle.com/kemical/kickstarter-projects)
 
 7. Sports Center Customer Analysis
 
