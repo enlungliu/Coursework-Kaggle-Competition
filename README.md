@@ -21,4 +21,6 @@ Data Resource:
 
 Data Resource: Private
 
-8. 
+8. Robot
+
+Data Resource: [Robot Surface Dectection](https://www.kaggle.com/c/career-con-2019/data)
