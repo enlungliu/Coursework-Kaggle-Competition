@@ -3,7 +3,7 @@ Coursework in College of William &amp; Mary MSBA
 
 1. RNN
 
-Data Resource: [RNN Headline Generator] (https://www.kaggle.com/therohk/million-headlines)
+Data Resource: [RNN Headline Generator](https://www.kaggle.com/therohk/million-headlines)
 
 2. CNN
 
