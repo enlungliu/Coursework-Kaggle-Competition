@@ -26,3 +26,7 @@ Data Resource: Private
 8. Robot Surface Dectection
 
 Data Resource: [Robot Surface Dectection](https://www.kaggle.com/c/career-con-2019/data)
+
+9. Santander Customer Transaction Prediction
+
+Data Resource: [Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/data)
