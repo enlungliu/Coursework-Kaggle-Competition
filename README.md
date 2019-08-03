@@ -1,6 +1,8 @@
 # Coursework
 Coursework in College of William &amp; Mary MSBA
 
+projects not listed in particular order
+
 1. RNN
 
 Data Resource: [RNN Headline Generator](https://www.kaggle.com/therohk/million-headlines)
@@ -21,6 +23,6 @@ Data Resource: [Kickstarter](https://www.kaggle.com/kemical/kickstarter-projects
 
 Data Resource: Private
 
-8. Robot
+8. Robot Surface Dectection
 
 Data Resource: [Robot Surface Dectection](https://www.kaggle.com/c/career-con-2019/data)
