@@ -1,4 +1,4 @@
-# Coursework
+# Coursework & Kaggle Competition
 Coursework in College of William &amp; Mary MSBA
 
 projects not listed in particular order
